@@ -1,5 +1,5 @@
 def hello():
       print("Hello, Lee Chang Hoon!")
-      print("Modify")
+      print("Making a new branch")
 
 hello()
